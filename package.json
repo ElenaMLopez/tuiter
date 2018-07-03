@@ -1,0 +1,26 @@
+{
+  "name": "tuiter",
+  "version": "1.0.0",
+  "description": "API REST con node, express y mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "Elena Mateos Lopez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "espress": "0.0.0",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
